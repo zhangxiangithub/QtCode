@@ -1,0 +1,2 @@
+标题名称,闭锁判据时间,极值告警间隔时间,数据库操作
+天津石化过负荷告警科研项目 实时系统软件,300,900,Driver={SQL Server};Server=172.17.78.18;Database=overload;UID=sa;PWD=Coslight123;
